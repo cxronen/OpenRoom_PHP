@@ -1,0 +1,7 @@
+E:\Sources\OpenRoom>sonar-scanner.bat
+
+execute the following to commint a change a trigger a build
+
+git add .
+git commit -m "test"
+git push -u origin master
